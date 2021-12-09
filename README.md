@@ -13,5 +13,3 @@ https://travel-guide-psi.vercel.app/
 ![image](https://user-images.githubusercontent.com/64121885/145353357-245ba53a-f8de-4003-99b8-67b6006f113c.png)
 
 
-
-Any Pull request are allowed only after discussion!!!
