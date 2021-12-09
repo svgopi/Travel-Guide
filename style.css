@@ -363,85 +363,9 @@ section .about-content p{
   transform: translate(-50%, -50%);
 
 }
-.contact-content{
+section .contact-us{
   position: relative;
   width: 100%;
   height: 100vh;
   background-size: cover;
-}
-
-.contact-content ul {
-  position: relative;
-  display: flex;
-  top: 50%;
-  left: 50%;
-  transform: translate(-25%, 40%);
-}
-
-.contact-content ul li {
-  list-style: none;
-}
-
-.contact-content ul li a {
-  width: 80px;
-  height: 80px;
-  background-color: #F3CE5E;
-  text-align: center;
-  line-height: 80px;
-  font-size: 40px;
-  margin: 0 20px;
-  display: block;
-  border-radius: 50%;
-  position: relative;
-  overflow: hidden;
-  border: 3px solid #fff;
-  z-index: 1;
-}
-
-.contact-content ul li a .icon {
-  position: relative; 
-  color: #360d0d;
-  transition: .5s;
-  z-index: 3;
-}
-
-.contact-content ul li a:hover .icon {
-  color: #fff;
-  transform: rotateY(360deg);
-}
-
-.contact-content ul li a:before {
-  content: "";
-  position: relative;
-  top: 100%;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: #f00;
-  transition: .8s;
-  z-index: 2;
-}
-
-.contact-content ul li a:hover:before {
-  top: 0;
-}
-
-.contact-content ul li:nth-child(1) a:before{
-  background: #3b5998;  /* fb */
-}
-
-.contact-content ul li:nth-child(2) a:before{    /* twi */
-  background: #1DA1F2;
-}
-
-.contact-content ul li:nth-child(3) a:before {   /* lin */
-  background: #006192;
-}
-
-.contact-content ul li:nth-child(4) a:before {   /* gh */
-  background: #000333
-}
-
-.contact-content ul li:nth-child(5) a:before { /* insta */
-  background: #F56040;
 }
