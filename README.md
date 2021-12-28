@@ -9,7 +9,7 @@ Here the project link :
 https://travel-guide-psi.vercel.app/
 
 
-![image](https://user-images.githubusercontent.com/64121885/145352274-c6c1464a-756c-4cf8-b8d8-350b68899c89.png)
+![image](https://user-images.githubusercontent.com/64121885/147536372-daa36786-73bd-4d8d-9e53-a634decf0497.png)
 ![image](https://user-images.githubusercontent.com/64121885/145353357-245ba53a-f8de-4003-99b8-67b6006f113c.png)
 
 
