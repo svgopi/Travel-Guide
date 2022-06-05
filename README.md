@@ -10,6 +10,4 @@ https://travel-guide-sigma.vercel.app/
 
 
 ![image](https://user-images.githubusercontent.com/64121885/147536372-daa36786-73bd-4d8d-9e53-a634decf0497.png)
-![image](https://user-images.githubusercontent.com/64121885/145353357-245ba53a-f8de-4003-99b8-67b6006f113c.png)
-
-
+![img](https://user-images.githubusercontent.com/76696228/172047248-fdb7b436-ae82-4a7a-a263-ddbc2efa0e05.jpg)
